@@ -26,4 +26,13 @@ cin>>perimetroQuadrato;
 float areaQuadrato = (perimetroQuadrato/4)*(perimetroQuadrato/4);
 cout<<"Area: "<<areaQuadrato<<" \n";
 
+//es n.4
+
+float baseMinore;
+float BaseeMaggiore;
+float altezza;
+
+float areaTrapezio = ((baseMinore + baseMaggiore) * altezza) / 2
+
+
 }
